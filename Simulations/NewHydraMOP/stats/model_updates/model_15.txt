@@ -1,0 +1,3 @@
+Trained model 15 on worker 7 on node 2 on shards ['root_path/gpu0', 'root_path/gpu1']
+Trained model 15 on worker 3 on node 0 on shards ['root_path/gpu0', 'root_path/gpu1', 'root_path/gpu2', 'root_path/gpu3']
+Trained model 15 on worker 5 on node 1 on shards ['root_path/gpu0', 'root_path/gpu1']
